@@ -7,7 +7,7 @@ get_header(); ?>
 
 <div class="motopress-wrapper content-holder clearfix">
 	<div data-motopress-type="static" data-motopress-static-file="static/static-slider.php">
-		<?php get_template_part("static/static-slider"); ?>
+		<img src="http://www.kmorganizing.com/wp-content/uploads/2015/06/Header-banner01-for-web.jpg" alt="k m organizing banner">
 	</div>
 	<div class="container">
 		<div class="row">
