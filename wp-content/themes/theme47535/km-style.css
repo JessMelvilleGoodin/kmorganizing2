@@ -71,6 +71,11 @@ h4 a:hover { color:#8A2A1E !important; }
 	color:#8A2A1E !important;
 }
 
+.title-header {
+    font-size: 43px;
+    line-height: 100%;
+}
+
 .breadcrumb li a, .breadcrumb .active a { color:#8A2A1E !important; }
 
 .box-1 h2:after {
@@ -209,4 +214,44 @@ ul.post-list li time {
 /* pink single testimonial box*/
 .testimonial{
     background:  #FBE9F2 !important;
+}
+
+/*free consultation title styles*/
+.call-km {
+    font-family:  Kameron, Arial !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size:  1.7em !important;
+}
+
+#collaborating {
+    text-align:  center;
+    font-size: 2.2em; 
+  padding:  1.5em;
+  font-family:  Muli, Arial, sans-serif;
+    line-height: 1.6em;
+}
+
+#phone-number {
+  text-align: center;
+   
+}
+
+#mission-statement {
+    font-size: 1.3em;
+    padding-right: 6em;
+}
+
+#fb-link {
+    color: #484848;
+}
+
+#contact-form-wrapper{
+    background: #FBE9F2;
+  border: 7px solid #6D6E71;
+  padding: 20px;
+}
+
+#contact-top-nudge{
+    margin-top: .5em;
 }

@@ -9,9 +9,9 @@ if ( ! function_exists( 'my_setup' ) ):
 		// This theme uses post thumbnails
 		if ( function_exists( 'add_theme_support' ) ) { // Added in 2.9
 			add_theme_support( 'post-thumbnails' );
-			set_post_thumbnail_size( 200, 150, true ); // Normal post thumbnails
-			add_image_size( 'slider-post-thumbnail', 1920, 622, true ); // Slider Thumbnail
-			add_image_size( 'slider-thumb', 100, 50, true ); // Slider Small Thumbnail
+			set_post_thumbnail_size( 200, 200, true ); // Normal post thumbnails
+			add_image_size( 'slider-post-thumbnail', 622, 622, true ); // Slider Thumbnail
+			add_image_size( 'slider-thumb', 100, 100, true ); // Slider Small Thumbnail
 		}
 
 		// Add default posts and comments RSS feed links to head
