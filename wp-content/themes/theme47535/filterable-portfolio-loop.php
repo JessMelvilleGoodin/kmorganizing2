@@ -156,7 +156,7 @@
 	// Set size for image
 	$image_size = array(
 		'width'  => 600,
-		'height' => 380
+		'height' => 600
 		);
 
 	// Get img URL, resize & crop
