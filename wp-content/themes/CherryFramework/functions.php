@@ -1,7 +1,7 @@
 <?php
     
-    update_option('siteurl','http://localhost:36093/');
-    update_option('home','http://localhost:36093/');
+    update_option('siteurl','http://www.kmorganizing.com');
+    update_option('home','http://www.kmorganizing.com');
 
 	/*
 	 * Set Proper Parent/Child theme paths for inclusion

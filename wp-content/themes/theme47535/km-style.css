@@ -14,8 +14,16 @@ body{
 .footer {
     background-color: #FBE9F2 !important;
 }
+#home-banner-footer{height: 160px;
+                    width: auto;
+                    margin-top: 1em;
+                    border:  solid 12px #6D6E71;
+}
+.footer h4 {
+      margin-bottom: 9px!important;
+  margin-top: 11px;
+}
 
-/*nav menu lowercase*/
 
 /*transformations display: none*/
 .es-carousel_li h5 {display: none !important;}
