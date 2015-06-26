@@ -25,6 +25,12 @@ body{
   margin-top: 11px;
 }
 
+#footer-fb-icon{
+    width: 27px;
+  height: auto;
+  vertical-align: text-bottom;
+    
+}
 
 /*transformations display: none*/
 .es-carousel_li h5 {display: none !important;}
@@ -221,6 +227,20 @@ ul.post-list li time {
                             font-size: 18px !important;
 }
 
+#portfolio-grid > li > div > figure > a
+{
+    width: 270px;
+    
+}
+
+
+#portfolio-grid > li{
+    
+      width: 280px !important; 
+      padding:  0;
+      
+}
+
 /*pink header*/
 .motopress-wrapper header {background:  #FBE9F2;}
 
@@ -291,3 +311,4 @@ ul.post-list li time {
 .title-header {
     font-size: 34px !important;
 }
+
