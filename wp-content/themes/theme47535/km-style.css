@@ -14,10 +14,11 @@ body{
 .footer {
     background-color: #FBE9F2 !important;
 }
-#home-banner-footer{height: 160px;
-                    width: auto;
+#home-banner-footer{height: auto;
+                    width: 454px;
                     margin-top: 1em;
                     border:  solid 12px #6D6E71;
+                    border-image-repeat: none;
 }
 .footer h4 {
       margin-bottom: 9px!important;
@@ -115,7 +116,7 @@ h4 a:hover { color:#8A2A1E !important; }
 .flexslider.no-bg {
 	overflow:hidden;
 	background:#393839 !important;
-	font-size:18px;
+	font-size:21px !important;
 	line-height:30px;
 	font-family:Kameron, 'Times New Roman'!important;
 	color:#FBE9F2;
@@ -216,7 +217,9 @@ ul.post-list li time {
 	background:#ffd070;
 }
 
-.flexslider.no-bg li p >a { color:#FBE9F2 !important; }
+.flexslider.no-bg li p >a { color:#FBE9F2 !important; 
+                            font-size: 18px !important;
+}
 
 /*pink header*/
 .motopress-wrapper header {background:  #FBE9F2;}
@@ -283,4 +286,8 @@ ul.post-list li time {
 #mission-title {
     font-size: 31px;
     
+}
+
+.title-header {
+    font-size: 34px !important;
 }
