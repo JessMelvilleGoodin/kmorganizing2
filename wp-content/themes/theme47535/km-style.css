@@ -312,3 +312,17 @@ ul.post-list li time {
     font-size: 34px !important;
 }
 
+
+
+#contact-copy {
+    font-size: 20px;
+    
+}
+
+#all-contact-copy {
+    line-height: 284%;
+}
+
+#all-contact-copy > h3 {
+    line-height: inherit;
+}

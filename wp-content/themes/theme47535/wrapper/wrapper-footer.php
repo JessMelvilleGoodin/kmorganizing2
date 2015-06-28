@@ -3,10 +3,10 @@
 	<div class="span6" data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="footer-sidebar-1">
 		<?php dynamic_sidebar("footer-sidebar-1"); ?>
 	</div>
-	<div class="span3" data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="footer-sidebar-2">
+	<div class="span2" data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="footer-sidebar-2">
 		<?php dynamic_sidebar("footer-sidebar-2"); ?>
 	</div>
-	<div class="span3" data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="footer-sidebar-3">
+	<div class="span4" data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="footer-sidebar-3">
 		<?php dynamic_sidebar("footer-sidebar-3"); ?>
 	</div>
 </div>
